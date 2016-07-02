@@ -6,6 +6,10 @@
 //  Copyright © 2016年 XianZhuangGuo. All rights reserved.
 //
 
+// github地址：https://github.com/corderguo/ChangeNavTitleImage
+// author : xianzhuangGuo
+// blog : http://coderperson.com/
+
 import UIKit
 
 @UIApplicationMain
