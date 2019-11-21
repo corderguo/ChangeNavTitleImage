@@ -7,7 +7,7 @@ Swift实现导航栏头像大小渐变和导航栏颜色渐变
 
 效果图：
 
-![ ](http://oet7ffdgt.bkt.clouddn.com/5.gif)		
+![ ](https://github.com/corderguo/corderguo.github.io/blob/master/images/567.gif?raw=true)		
 
 ---
 
